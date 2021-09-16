@@ -1,0 +1,13 @@
+# Popis direktorijuma i datoteka koje treba da budu zanemarene prilikom dodavanja u Git spremište:
+
+# 01-dokumentacija
+
+# 02-resursi
+
+# 03-back-end
+03-back-end/dist
+03-back-end/node_modules
+03-back-end/logs
+
+# 04-front-end
+node_modules
